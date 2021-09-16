@@ -39,9 +39,9 @@
                             </select>
                         </td>
                     </tr>
-                    <tr v-for="row in rows">
-                        <td v-for="col in row">{{ col }}</td>
-                    </tr>
+<!--                    <tr v-for="row in rows">-->
+<!--                        <td v-for="col in row">{{ col }}</td>-->
+<!--                    </tr>-->
                 </tbody>
             </table>
 
